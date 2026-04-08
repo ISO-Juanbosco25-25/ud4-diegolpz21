@@ -1,6 +1,6 @@
 # ❌ ERRORES DETECTADOS EN EL MONTAJE
 
-## 👨‍💻 Alumno:
+## 👨‍💻 Alumno: Diego López-Ortega Parra
 ## 🖥️ Equipo:
 
 ---
