@@ -1,6 +1,6 @@
 # 🔧 PROPUESTAS DE MEJORA DEL PROCESO DE MONTAJE
 
-## 👨‍💻 Alumno:
+## 👨‍💻 Alumno: Diego López-Ortega Parra
 ## 🖥️ Equipo:
 
 ---
